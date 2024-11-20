@@ -17,7 +17,7 @@ YunGouOS 官网有 [YunGouOS-Node-SDK](https://github.com/YunGouOS/YunGouOS-PAY-
 #### YunGou-Pay 和 YunGouOS-Node-SDK 差异 
 
 1. \- 统一微信和支付宝接口，移除所有无意义async重复接口
-2. 函数参数统一为JSON对象，而非顺序化传参 (简直噩梦 ...)
+2. 函数参数统一为JSON对象，而非顺序化传参
 ```js
 // YunGouOS-Node-SDK 
 const rsp = await WxPay.nativePay(out_trade_no, total_fee, mch_id, body, type, app_id, attach, notify_url, auto, auto_node, config_no,biz_params,payKey);
