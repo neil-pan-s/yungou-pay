@@ -1,9 +1,9 @@
 {
   "name": "yungou-pay",
   "version": "1.0.0",
-  "description": "",
+  "description": "YunGou-Pay 基于微信/支付宝授权的服务商模式, 为个人(开发者、小微商户)实现便捷的支付接入服务",
   "author": "neil pan",
-  "license": "ISC",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "doc": "jsdoc ./* ./src/* -d docs"
