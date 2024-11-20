@@ -42,7 +42,7 @@ YunGou-Pay和YunGouOS-Node-SDK接口命名基本保持一致, 可以无缝兼容
 
 ## 快速上手
 
-API文档:  [https://neil-pan-s.github.io/yungou-pay](https://neil-pan-s.github.io/yungou-pay/global.html)
+[API文档 https://neil-pan-s.github.io/yungou-pay](https://neil-pan-s.github.io/yungou-pay)
 
 ### 安装
 
