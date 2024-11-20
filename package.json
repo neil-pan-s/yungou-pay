@@ -2,11 +2,11 @@
   "name": "yungou-pay",
   "version": "1.0.0",
   "description": "",
-  "author": "Neil Pan",
+  "author": "neil pan",
   "license": "ISC",
   "main": "index.js",
   "scripts": {
-    "doc": "jsdoc ./src/* -d docs"
+    "doc": "jsdoc ./* ./src/* -d docs"
   },
   "dependencies": {
     "md5": "^2.3.0",
