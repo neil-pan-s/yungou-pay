@@ -1,6 +1,6 @@
 {
   "name": "yungou-pay",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "YunGou-Pay 基于微信/支付宝授权的服务商模式, 为个人(开发者、小微商户)实现便捷的支付接入服务",
   "keywords": [
     "yungouos",
