@@ -1,0 +1,19 @@
+{
+  "name": "yungou-pay",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Neil Pan",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc ./src/* -d doc"
+  },
+  "dependencies": {
+    "md5": "^2.3.0",
+    "node-fetch": "^2.7.0",
+    "qrcode": "^1.5.4"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.4"
+  }
+}
