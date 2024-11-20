@@ -14,8 +14,8 @@ let mid, secret;
  *
  * 登录yungouos.com-》支付宝-》商户管理 支付宝商户号 获取
  *
- * @param {*} params.mid 支付宝商户号
- * @param {*} params.secret 商品描述
+ * @param {*} params.mid 商户号
+ * @param {*} params.secret 商户密钥
  */
 const config = (params = {}) => {
   mid = params.mid;
