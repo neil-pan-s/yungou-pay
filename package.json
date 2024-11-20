@@ -1,6 +1,6 @@
 {
   "name": "yungou-pay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "YunGou-Pay 基于微信/支付宝授权的服务商模式, 为个人(开发者、小微商户)实现便捷的支付接入服务",
   "keywords": [
     "yungouos",
@@ -11,7 +11,7 @@
     "pay",
     "nodejs"
   ],
-  "author": "neil pan",
+  "author": "Neil Pan <neil.pan@qq.com>",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   "homepage": "https://neil-pan-s.github.io/yungou-pay/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/neil-pan-s/yungou-pay.git"
+    "url": "git://github.com/neil-pan-s/yungou-pay.git"
   },
   "bugs": {
     "url": "https://github.com/neil-pan-s/yungou-pay/issues"
