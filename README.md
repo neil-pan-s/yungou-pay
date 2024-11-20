@@ -1,8 +1,6 @@
 # YunGou-Pay
 
-<center>        
-    <img src="https://yungouos.oss-cn-shanghai.aliyuncs.com/YunGouOS/logo/merchant/logo.png" />
-</center>
+![https://images.yungouos.com/YunGouOS/logo/merchant/logo.png](https://images.yungouos.com/YunGouOS/logo/merchant/logo.png)
 
 YunGouOS - 专业支付系统服务提供商，从事支付行业9年之久，微信、支付宝首批服务商。基于微信/支付宝官方授权的服务商模式为中小商家提供便捷的支付接入服务，致力于为更多开发者、个体户、个人创业者、小微企业提供合法合规的官方支付接口。
 
